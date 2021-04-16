@@ -31,6 +31,7 @@ class ChatActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        //gvjg
         binding = DataBindingUtil.setContentView(this, R.layout.activity_chat)
         email = intent.getStringExtra("email")!!
         image = intent.getStringExtra("image")!!
