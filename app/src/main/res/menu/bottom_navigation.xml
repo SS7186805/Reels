@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Reels"
+        android:title="Reels"/>
+
+    <item
+        android:id="@+id/Music"
+        android:title="Music"/>
+
+    <item
+        android:id="@+id/Challenge"
+        android:title="Challenge"/>
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"/>
+
+</menu>
